@@ -70,7 +70,7 @@
                                             </a>\
                                         </div>\
                                         <div class='media-body'>\
-                                            <h4 class='media-heading'>Woning</h4>\
+                                            <h4 class='media-heading'>Villa Mimosa</h4>\
                                             <address>\
                                                 Chaussée de Mimosa 57 <br>\
                                                 83550 Vidauban, <br>\
