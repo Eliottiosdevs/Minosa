@@ -66,7 +66,7 @@
                                     <div class='media'>\
                                         <div class='media-left'>\
                                             <a href='#'>\
-                                                <img class='media-object' src='./assets/images/demo-content/country-googlemap-item.jpg' alt='Google Map Result'>\
+                                                <img class='media-object' width='95' src='./assets/images/villa.jpg' alt='Google Map Result'>\
                                             </a>\
                                         </div>\
                                         <div class='media-body'>\
